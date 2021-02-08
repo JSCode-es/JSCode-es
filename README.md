@@ -11,6 +11,7 @@ Nam id euismod quam, a interdum diam. Sed aliquet accumsan pulvinar. In sceleris
 - Aplicación para mobil 
 - Aplicación de tipo Canva
 - Aplicación de videoconferencias
+- Conectividad con etiquetado electrónico ( Vusion ( Ses Imagotag ) , Solum y Zkong )
 
 
 ### Proyectos públicos
