@@ -11,7 +11,6 @@ Desarrollador de la empresa **Farmaconnect**; donde todos los proyectos se ha de
 - Aplicación de videoconferencias
 - Conectividad con etiquetado electrónico ( Vusion ( Ses Imagotag® ) , Solum® y Zkong® )
 
-
 ### Proyectos públicos
 - Módulo para manipular BBDD mediante ojectos
 
@@ -22,3 +21,8 @@ Desarrollador de la empresa **Farmaconnect**; donde todos los proyectos se ha de
 - Oracle SQL
 - CSV
 - JSON
+
+## Habilidades creativas
+- Photoshop
+- Ilustrator
+- After Effect
