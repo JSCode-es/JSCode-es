@@ -16,3 +16,11 @@ Nam id euismod quam, a interdum diam. Sed aliquet accumsan pulvinar. In sceleris
 
 ### Proyectos públicos
 - Módulo para manipular BBDD mediante ojectos
+
+### Manipulación de base de datos
+- Mysql 8.0
+- Redis
+- SQL Server
+- Oracle SQL
+- CSV
+- JSON
