@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris scelerisque, era
 Nam id euismod quam, a interdum diam. Sed aliquet accumsan pulvinar. In scelerisque sed mauris ut convallis. Duis vel tellus ac nisi commodo accumsan. Phasellus ac fringilla metus. Ut ut ultrices magna. Sed aliquam malesuada est. Quisque eget ornare ex, id ullamcorper velit. In eget nisl eget erat scelerisque lobortis. Vestibulum tempus nibh risus, ac ultricies massa fringilla non. Integer pharetra libero eu mi vehicula aliquam. Donec ornare dolor erat, id luctus tortor tempus nec. Donec nec justo augue. In malesuada velit neque, vel malesuada lacus convallis eget. Praesent commodo felis sit amet ex cursus aliquam.
 
 ### Proyectos privados 
-- Servidor HTTPS, P2P, FTP
+- Servidor HTTPS, P2P, FTP, API Rest
 - Connector remoto de Base de datos
 - Aplicación para pantallas táctiles
 - Aplicación para mobil 
