@@ -1,4 +1,5 @@
-### Hi there 👋
+# JSCode
+## Sergio González Garrido
 
 <!--
 **JSCode-es/JSCode-es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
