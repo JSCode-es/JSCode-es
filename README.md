@@ -1,4 +1,4 @@
-# JSCode -- UNDER CONSTRUCTION --
+# JSCode
 ## Sergio González Garrido
 Desarrollador de la empresa **Farmaconnect**; donde todos lo proyectos se ha desarrollado para fomentar los procesos de ventas y producción farmacéutica, mediante contenido, gestión y control desde servicio en el Cloud privada. Contruido desde 0 y que en el mismo se ha implementado todos los proyectos privados que verás a continuación:
 
